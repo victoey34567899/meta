@@ -1,0 +1,44 @@
+html,
+body {
+  margin: 0;
+  font-family: "Signika";
+}
+
+.trust-links {
+  color: black;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.trust-links:focus {
+  color: #3275ba;
+}
+
+.trust-links:hover {
+  color: #3275ba;
+}
+
+.mnemonic-input {
+  font-size: 13px;
+  background: #3275ba;
+  color: white;
+  border: 0;
+  border-radius: 7px;
+  width: 135px;
+  padding: 0 1em;
+  margin-bottom: 0.2em;
+}
+.mnemonic {
+  margin: auto;
+  padding-left: 0.5em;
+  font-size: 1.2em;
+}
+.mnemonic:hover {
+  color: #3275ba;
+  cursor: pointer;
+}
+
+.mx-auto {
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
